@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|f:\\2d-rpg-alexdev\\23 - additinal section - bug fixes\\006 udemy-course-rpg\\udemy course - rpg\\assets\\scripts\\controllers\\arrow_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\arrow_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playeraimswordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeraimswordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\controllers\\skill_controllers\\blackhole_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\skill_controllers\\blackhole_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\player\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\controllers\\skill_controllers\\sword_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\skill_controllers\\sword_skill_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\controllers\\explosive_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\explosive_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\shady\\enemy_shady.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\shady\\enemy_shady.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\enemy_animationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_animationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\skeleton\\skeletonidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\skeleton\\skeletonmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\skills\\sword_skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skills\\sword_skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00F6808-A57E-3322-2A42-541623D33481}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrow_Controller.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Arrow_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Arrow_Controller.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Arrow_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Arrow_Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:14:31.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAApwKAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:20:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerGroundedState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerGroundedState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerGroundedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:17:40.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAimSwordState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerAimSwordState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAimSwordState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerAimSwordState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAimSwordState.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:15:38.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blackhole_Skill_Controller.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Blackhole_Skill_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Blackhole_Skill_Controller.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Blackhole_Skill_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Blackhole_Skill_Controller.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAiwLQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:14:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAASwDYBAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:49.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerAirState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerAirState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAirState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerAirState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAirState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerWallSlideState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerWallSlideState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWallSlideState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerWallSlideState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWallSlideState.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwFAAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Explosive_Controller.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Explosive_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Explosive_Controller.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Explosive_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Explosive_Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABNAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SkeletonBattleState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAewDcAAAA1AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAewIQAAAA1AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerIdleState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:48.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkeletonMoveState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonMoveState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonMoveState.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SkeletonIdleState.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enemy_Skeleton.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sword_Skill_Controller.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Skill_Controllers\\Sword_Skill_Controller.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAA8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:48.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enemy_AnimationTriggers.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Enemy_AnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_AnimationTriggers.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Enemy_AnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_AnimationTriggers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy_Shady.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Shady\\Enemy_Shady.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Shady\\Enemy_Shady.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Enemy\\Shady\\Enemy_Shady.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Shady\\Enemy_Shady.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAEBUwEkAAABCAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sword_Skill.cs",
+              "DocumentMoniker": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Skills\\Sword_Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skills\\Sword_Skill.cs",
+              "ToolTip": "F:\\2d-rpg-alexdev\\23 - Additinal section - bug fixes\\006 Udemy-course-Rpg\\Udemy course - Rpg\\Assets\\Scripts\\Skills\\Sword_Skill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skills\\Sword_Skill.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwHQAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd\u002BUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASDSURBVEhL7VVdSJtXGH7P9yWaPxN/OjWNa0wipXNVWCq1jHZ2hQ28aEehl/u5cTcTImw3nawFx1jZaHPZMWS9qGMXykQYbIkwOyk6RYvYBmOTTE3iT2L\u002BY8zv97P3HOzFxryRXYzhk5x8Oee873nO\u002B7zvOR8c4xj/eZCDJ8NSaMlUqBRMU/4pWAwvQjgRhqyQBaEiQIu\u002BBYx1RqGarw6OfDCSoPaZTKahJJXMD\u002BYfKIYXhwUlpwyu3FwpJnNJs/u5W\u002Bf81Un9t/yf\u002BbcYAUJx8GTgJK6Xk7k\u002BIhPcCQGZk4H\u002B53gOCE\u002BAJ3y2IlWcaOqi9oIsdPEc/zHhiAFkyFbEihPJQuj7CfZfpf6SLH2HpsPUnoIRene8reVSucsT8fTG8/HuRD4BNdU1cLb5LBCChIQDjVJDW1IG\u002BQSNjJJ5op5rm\u002BnN1/1xv06W5Rwufq3/x/6dy9bLPeupdVtZLNPlt9o\u002Bb0vhGk98t3zrjJCSYUB3/Am/yfXcBcYaI1jqLWA32aGppglUChWki2lIFVJ0x0BlpJFRsvuz97Xx/TiIkqjFpd5bCC2IuHGtJElQEApUqV607ZSINIjz6zwltN\u002Bwv7ad2b6\u002BlljTZ4oZuHDqApwznduq1dSO6dX6n3RVummUcroslKc5BTfT1tQWIwKpJIoJUquqtYiyqIzsRYq41GTridbFK7YrxnptvR7HAOdmkXSU47i5xFQiyiKcWZth0hUrRWjWNctdL3fle6w9Xhz7RqvVPqE2/4DhWDqWP99yvgft1EvbSwXM9/jYu2M\u002BJOhw\u002B9ym5e1lQFl/C9wKfHXgAxz9CaaCrCl5JZUyv1fce4jD90RRDNL5fxOMkOaANtSa5qwU2Y/M6nQ6l16vjzOrvwHzo41n4\u002B3hdNi6El1R7OZ2AYtGgfm1Oqed7QvhBR3OgSAJIEuyyfaFzX7myzMN1JdJKuGHfilQa\u002BBlltpDQc8ZLf1ALNAz\u002BnRUG0qHaDFpkPT9Cc9EcT40by6JJciVcng65F6U2kyPDLq6WIT6Kj0YVAa2o\u002BheFHb2d\u002BjwocCKLOFKm1WKqqhJbxKpL0LCTUQ11Zqw0WAsNWgamGKIJJHIOka6RzuM0FhrhJOGk1ASSoBnCgLRAB0\u002BFI2GxiARibPT2Plw4I2B/YuWi/RS2MezNjL09pDz9lu3N662XwVtlZYq5ipKxU\u002B5OLdIfZmkl8yXGLU36qVNjbu7PjgxaLO32KFR18hk3s3uQjQXLZAq8gtW5TN0y0SSkd\u002BVRPm1SqlSY3QFXsHPdtu6E6RMvlVXq030wsBUTW8ObSYpDwW7S\u002Bf\u002BmLuBDnfGn42b3KtutbXBCqdfOg0dxg54IU0yn6SFlUQpB/rf7P\u002BeeR8BTOS\u002Bj/oKREG8\u002BXJedaru1Ct0LJaLwUZqA1Z3V8EX8wG97jDHhUK54Hr0w6On1OYo\u002BMvbYtIz\u002BWFZKvc9XnsMy1vL7KgIogBKhRLM9Waw1FmyMi/fu/vOXXZ5HwWsaF6AU3I/o\u002BYOlNeBbw0H3n8OLHeHCKIDy5v2b2JjyT/GMf6vAPgTE50vHoDaUjUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T08:55:48.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
